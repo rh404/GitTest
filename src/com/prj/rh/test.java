@@ -6,5 +6,6 @@ package com.prj.rh;
 public class test {
     public static void main(String[] args) {
         System.out.println("Say Hello world");
+        System.out.println("happy!!");
     }
 }
